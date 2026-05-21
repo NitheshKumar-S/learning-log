@@ -48,6 +48,26 @@ from beginner to placed engineer.
 - [ ] DSA: Arrays started
 - [ ] LinkedIn and resume live
 
+# HTML CSS Practice
+
+Practice files for HTML and CSS fundamentals.
+
+## Contents
+- `index.html` — First HTML page built from scratch
+
+## Progress
+- [x] Day 2: HTML boilerplate, headings, paragraphs, lists
+- [ ] Day 3: CSS styling added
+- [ ] Day 4: Flexbox layout
+- [ ] Day 5: Responsive design
+
+## What I Learned
+- HTML document structure and boilerplate
+- Heading hierarchy h1 through h6
+- Paragraphs, bold, italic text
+- Unordered and ordered lists
+- Nested lists
+
 ## Connect
 - LinkedIn: linkedin.com/in/YOUR-USERNAME
 - Email: your@email.com
